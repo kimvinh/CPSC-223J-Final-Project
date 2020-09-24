@@ -1,0 +1,10 @@
+What is the binary of 15?
+1111 1011 1110 1111 1111
+Most class data fields are ______
+final static private public private
+Java classes are stored in a folder or ______
+bundle package packet gaggle package
+An instance of a class is a(n) ______
+method procedure case object object
+A KeyEvent method getKeyChar() returns a(n) ______
+int char KeyEvent AWTEvent int
